@@ -336,11 +336,6 @@ ylabel('cos(x)');
 grid on;
 ...................................................................
 
-This script creates a time vector x from 0 to 2π with increments of 0.01, computes the cosine of each value, and then plots the result. The grid on command adds a grid to the plot for better visualization.
+This script creates a time vector x from 0 to 2π with increments of 0.01, computes the cosine of each value, and then plots the result. 
+The grid on command adds a grid to the plot for better visualization.
 
-If you're interested in plotting both sine and cosine waves on the same graph, you can refer to the following resource:
-MathWorks
-
-MathWorks
-
-Let me know if you need further assistance or have specific requirements for your plot!
